@@ -1,0 +1,13 @@
+HackForums // HF // Hell
+
+https://krebsonsecurity.com/2016/09/ddos-mitigation-firm-has-history-of-hijacks/
+
+The article detailing a DDoS drama spree involving Chris "CJ" Sculti, Jr., believed to be the Anna-Senpai that wrote Mirai and later published the source code on HF.
+This is the article that spurred Sculti to attack Brian Kreb's site, which then lead to Kreb's investigation into the connection between Sculti and Anna-Senpai.
+
+https://krebsonsecurity.com/2017/01/who-is-anna-senpai-the-mirai-worm-author/
+https://krebsonsecurity.com/who-is-anna-senpai-mirai-story-glossary/
+
+This is the article detailing Kreb's investigation into the identity of Anna-Senpai, and its associated glossary to help explain terms, people, and companies involved 
+in the investigation. 
+
