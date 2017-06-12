@@ -1,11 +1,23 @@
 LiteSpeed // Josiah White
 Criminal History:
 - Writing Qbot/Bashlite
-LiteSpeed, or Josiah White, was a HackForums user who wrote part of the Mirai botnet, particularly the C code that allowed the malware to automatically spread to other vulnerable IoT devices. Josiah White says that he was extorted into releasing the code to the public by a former friend that betrayed him, HF User Vyp0r. The code he wrote allowed the botnet to spread, and he is quoted as being an enterprise DDoS mitigation expert at ProTraf, the same company that employed Paras Jha (Anna_Senpai) and CJ Sculti, a member of the lelddos group.
-Vyp0r reportedly threatened to dox Josiah and swat his home, leading Josiah to leak the code required for the Mirai botnet to spread. When Josiah had written this code, they were being used in the Qbot/Bashlite botnet, two botnets rivaling the Mirai malware campaign. Vyp0r’s extortion of Josiah White lead to the code being released online, which could have allowed Paras Jha (Anna_Senpai) to gain the upper hand and code in the Qbot killer code into Mirai. This very well may indicate a relationship between Vyp0r and Anna_Senpai.
-According to White, Vyp0r and others were already selling the code in under-the-table deals, meaning that Paras may have had access to the code even before it was published. 
-Other social media posts linked to Paras indicate he had a previous relationship with Vyp0r. Anna_Senpai and Vyp0r’s relationship explains the betrayal between Vyp0r and White. Paras must have found out his coworker was coding bots in direct competition to his own, so he leveraged a mutual contact to extort White into releasing the code and essentially crippling the Qbot botnet.
-Josiah White is an important player in this story. Qbot was a direct competitor of Mirai, and Paras spent a lot of effort and code in dismantling Qbot. This must have meant that Josiah couldn’t have known that Paras, his coworker, was Anna_Senpai.
+LiteSpeed, or Josiah White, was a HackForums user who wrote part of the Mirai botnet, particularly the C code that allowed the
+malware to automatically spread to other vulnerable IoT devices. Josiah White says that he was extorted into releasing the code to
+the public by a former friend that betrayed him, HF User Vyp0r. The code he wrote allowed the botnet to spread, and he is quoted as
+being an enterprise DDoS mitigation expert at ProTraf, the same company that employed Paras Jha (Anna_Senpai) and CJ Sculti, a
+member of the lelddos group.
+Vyp0r reportedly threatened to dox Josiah and swat his home, leading Josiah to leak the code required for the Mirai botnet to
+spread. When Josiah had written this code, they were being used in the Qbot/Bashlite botnet, two botnets rivaling the Mirai malware
+campaign. Vyp0râ€™s extortion of Josiah White lead to the code being released online, which could have allowed Paras Jha
+(Anna_Senpai) to gain the upper hand and code in the Qbot killer code into Mirai. This very well may indicate a relationship
+between Vyp0r and Anna_Senpai.
+According to White, Vyp0r and others were already selling the code in under-the-table deals, meaning that Paras may have had access
+to the code even before it was published. 
+Other social media posts linked to Paras indicate he had a previous relationship with Vyp0r. Anna_Senpai and Vyp0râ€™s relationship
+explains the betrayal between Vyp0r and White. Paras must have found out his coworker was coding bots in direct competition to his
+own, so he leveraged a mutual contact to extort White into releasing the code and essentially crippling the Qbot botnet.
+Josiah White is an important player in this story. Qbot was a direct competitor of Mirai, and Paras spent a lot of effort and code
+in dismantling Qbot. This must have meant that Josiah couldnâ€™t have known that Paras, his coworker, was Anna_Senpai.
 
 Targets:
 Misconfigured IoT devices
