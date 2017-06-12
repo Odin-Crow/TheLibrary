@@ -1,0 +1,6 @@
+LelDDoS Group
+Connections and Members:
+Christopher “CJ” Sculti
+Paras Jha // Anna_Senpai
+
+This group was connected with Anna_Senpai, and used the Mirai Botnet to knock down several big name Minecraft servers, for the purpose of extortion or, as Reddit user LelDDoS says, “We are trying to prove that when a corporation goes against a community of ddosers, hackers, and sysadmins, that it doesnt end well for the corporation.” This is one of the crucial links in the Krebs report that lead Brian to Anna_Senpai’s identity. Christopher “CJ” Sculti was a member of lelddos alongside Anna_Senpai, and helped with many of the attacks.
