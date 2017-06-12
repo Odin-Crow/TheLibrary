@@ -1,0 +1,12 @@
+Blackshades: From Xbox to Arab Spring
+Content Below detailing Blackshades Group and Blackshades Malware campaign.
+Known Members of Blackshades Group:
+Brendan Johnston // BV1 (Arrested)
+Alexander Yucel // MarjinZ (Arrested)
+Michael Hogue // xVisceral (Arrested)
+
+xVisceral 1.0, the precursor to Blackshades, began as a RAT to boot people off of Xbox Live games. After Yucel (Marjinz) contacted Hogue (xVisceral), they upgraded, beefed up, and renamed xVisceral 1.0 to Blackshades, and turned their eye to a different sort of campaign.
+Blackshades had the ability to build botnets, automatically spread, log keystrokes, activate webcams and microphones, and capture passwords. This ability made it a great asset to the Assad regime, to use against the Syrian opposition during the Arab Spring. It was also used in high profile leaks of stolen photos of nude models and other women, including Miss Teen USA. 
+The undercover FBI sting Operation Card Shop caught up Michael Hogue (xVisceral), and an undisclosed witness arrested by the FBI in relation to the Blackshades investigation lead to the capture of Brendan Johnston (BV1) and Alexander Yucel (MarjinZ). The FBI agent (m4v3r1ck) approached the administrator of Hack Forums (Omniscent) intending to buy the site, but instead convinced him to turn users towards another forum, administered by the FBI, where they admitted their crimes online and were tracked down. MarjinZ was arrested after selling Blackshades to an undercover FBI agent.
+BV1 was known for being the marketing expert and primary seller of Blackshades, a professed Administrator of the group. MarjinZ and xVisceral were both developers and marketers of the malware as well, but MarjinZ seems to have been the ringleader, as evidence showed he handled the hiring, firing, and paying of employees’ salaries, as well as other higher level administrative roles.
+

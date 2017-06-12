@@ -1,0 +1,84 @@
+Table of Contents
+
+1. Introduction ………………………………………………………………………………………… 1 
+
+2.1 Mandiant APT1 Report………...…………………………………………………………………. 0
+2.2 Dissecting APT1 Report……………………………………………………………………………
+	2.2.1 Personalities Behind the Keyboard…………………………………………………………
+		Ugly Gorilla……………………………………………………………………………………
+		DOTA…………………………………………………………………………………………..  
+
+3. Logistical Details …………………………………………………………………………………… 
+
+4. Technical Details …………………………………………………………………………………….
+	4.1 Indicators of Compromise (IOCs) ……………………………………………………………
+
+5. References ……………………………………………………………………………………………
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Introduction
+APT1 is one of the most adept (publicly known) Advanced Persistent Threat (APT) groups in operation right now. APT1 has been attributed to be People’s Liberation Army (PLA) Unit 61398, a specialized Chinese cyber threat actor with advanced technical skills and English language background. APT1 first made headlines after Mandiant (FireEye) released a ground-breaking report detailing a concerted espionage campaign against public and private entities in several countries, mainly English-speaking, western countries, and a clear majority of which are based in the United States.
+
+The APT1 report lead to the first international indictment against three known, specific threat actors. The United States Government indicted these three hackers and demanded they be extradited to the United States. Their demands, as of the point of writing, have not been met. The report also brought state-sponsored espionage to the forefront, and began the discussion on the theft of Intellectual Property (IP) and trade secrets.
+
+The APT1 report also lead to the international discussion on Threat Intelligence, one of the primary focuses of this project. The intelligence community, both private and public, began focusing on codenames like Fancy Bear and Cyber Berkut, as did the mainstream media. Before that point in time, attention was mainly focused around the less technical actors with less complex attacks. It was much simpler to explain a Distributed Denial of Service (DDoS) attack than it is to explain a months long breach of national security in a windowless basement of a room. After the APT1 report, though, media attention flew straight to the implication of Chinese hackers in American systems, Chinese companies stealing trade secrets and ruining American economic opportunities.
+
+The APT1 report truly was groundbreaking. Because of that, the majority of this section of the project is based upon that report. All credit goes to Mandiant/FireEye and the authors of the APT1 report, who will be directly credited in the References portion of this section.
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.1 Mandiant APT1 Report
+APT1 was the name put to Chinese People’s Liberation Army (PLA) Unit 61398, or the Third General Staff Department (GSD), Second Bureau, first coined in the breakthrough paper by Mandiant in February of 2013. The paper detailed an extremely professional, well manned and even better funded Advanced Persistent (APT) Threat group. Conservative estimates placed the manpower in the hundreds or thousands, and an extremely high financial backing. The report was a first of its kind, a formalized, technological look at a concerted, state-backed cyber campaign aimed at espionage and theft of intellectual property (IP). Throughout the report, technical and logistical details paint a picture at just how organized this campaign was, the effectiveness of the cyber network operations (CNO), and gave a very personal look at the top three operators working for APT1. The paper directly lead to the first international indictment against a foreign cyber operative (FCO) and changed the threat landscape by highlighting just how serious cyber espionage was beginning to be.
+
+
+
+
