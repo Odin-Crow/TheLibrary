@@ -1,15 +1,30 @@
 Chinese Red Hacker Army // Personas
 Lion / Lin Yong
 Criminal History:
-- Hacking and DDoS’ing US and Japanese government, military, and media networks
+- Hacking and DDoSâ€™ing US and Japanese government, military, and media networks
 - Organizing the HUC
 - Involved with Topsec Technology, a firm in Beijing potentially linked to nation-state backed hacking of the US
 - Developed HTran, a tool used in APT1 breaches.
-Lion, real name Lin Yong, was the founder and website administrator for the Hacker Union of China (HUC) and its associated website and forum. Lion was a patriotic computer science student who joined the Hacker War in 2001 after the Hainan Island incident.
-Lion created the group and lead many of its activities. He administered the official site for the Hacker Union of China, and developed HTran, a proxy-like tool used to aid in the monitoring of targets in APT1 breaches. Though he posted the tool publicly online, this creates a veritable link between the HUC, Lion, and the CPC. 
-Lion went on to shut down the HUC, before bringing it back with the help of Liu Qing, a participant in the hacker war and now a mobile games developer and one-time bug bounty hunter. They co-authored an online manifesto, urging the members of the union to spend their time researching defensive technologies instead of hacking foreign governments. After the early 2000’s cyber conflict, the Chinese government spoke (softly) against hacktivist attacks on Western targets, even though they didn’t pursue charges.
-Lion now works for Topsec Technology, a cyber security firm in Beijing with ties to the CPC. They were mentioned in a leaked State Department memo, detailing their worries that private firms were being used as a proxy to launch attacks. Topsec has ties to CNITSEC, a Chinese government organization that has been known to develop Microsoft OS exploits. The chairman of the company, He Weidong, also states that the majority of their start-up funding came from the CPC, and that they required no bank loans to turn into a 440M USD company. 
-Lion is also attributed to be the author of the Lion worm, a worm affecting RedHat Linux. The worm is not terrifically advanced, communicating with the author via a hardcoded email and scanning for vulnerable victims using a particularly noisy command. The exploit, written by Last Stage of Delirium (LSD), only affected a small subset of RedHat operating systems at the time. It appeared that, overall, the Lion Worm was basically a copy and paste version of another existing worm.
+Lion, real name Lin Yong, was the founder and website administrator for the Hacker Union of China (HUC) and its associated
+website and forum. Lion was a patriotic computer science student who joined the Hacker War in 2001 after the Hainan Island
+incident.
+Lion created the group and lead many of its activities. He administered the official site for the Hacker Union of China, and
+developed HTran, a proxy-like tool used to aid in the monitoring of targets in APT1 breaches. Though he posted the tool publicly
+online, this creates a veritable link between the HUC, Lion, and the CPC. 
+Lion went on to shut down the HUC, before bringing it back with the help of Liu Qing, a participant in the hacker war and now a
+mobile games developer and one-time bug bounty hunter. They co-authored an online manifesto, urging the members of the union to
+spend their time researching defensive technologies instead of hacking foreign governments. After the early 2000â€™s cyber
+conflict, the Chinese government spoke (softly) against hacktivist attacks on Western targets, even though they didnâ€™t pursue
+charges.
+Lion now works for Topsec Technology, a cyber security firm in Beijing with ties to the CPC. They were mentioned in a leaked
+State Department memo, detailing their worries that private firms were being used as a proxy to launch attacks. Topsec has ties
+to CNITSEC, a Chinese government organization that has been known to develop Microsoft OS exploits. The chairman of the company,
+He Weidong, also states that the majority of their start-up funding came from the CPC, and that they required no bank loans to
+turn into a 440M USD company. 
+Lion is also attributed to be the author of the Lion worm, a worm affecting RedHat Linux. The worm is not terrifically advanced,
+communicating with the author via a hardcoded email and scanning for vulnerable victims using a particularly noisy command. The
+exploit, written by Last Stage of Delirium (LSD), only affected a small subset of RedHat operating systems at the time. It
+appeared that, overall, the Lion Worm was basically a copy and paste version of another existing worm.
 
 
 
