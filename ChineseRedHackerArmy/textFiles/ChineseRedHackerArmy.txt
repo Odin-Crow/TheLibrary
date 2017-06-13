@@ -1,5 +1,5 @@
 Chinese Red Hacker Army
-Chinese Red Hacker Army // Honkers // Honker’s Union // ????? // ??
+Chinese Red Hacker Army // Red Hacker Alliance // Honkers // Honker’s Union // ????? // ?? 
 
 Criminal History: 
 - Hacking and DDoS’ing US government and military networks
@@ -14,14 +14,23 @@ The Honkers formalized in 2001 after the Hainan Island incident. On April 1, 200
 The Honkers attract controversy based upon whether or not they are supported or sponsored by the PRC’s government. As a patriotic, often anti-Western group that derives their name from the color of the Communist Party, it wouldn’t be a huge surprise. The government didn’t exactly condemn the attacks after the Hainan Island incident, slapping them on the wrist before condemning, in much stronger terms, the Americans who they viewed as the real cause of the attacks.
 The risk now is in ad-hoc attacks. There is a risk that many of the old Honker actors who received more acclaim for their technical skills were picked up by formal government agencies. The Honkers themselves are a risk any time the political tensions between the two superstars rise. As the dispute in the South China Sea rises, the US should expect patriotic hacking attacks to become increasingly common. The Honkers are a very disjointed, disorganized group. What they lack in technical expertise, they gain in numbers. They’re difficult to trace because and their lack of central control, and don’t have a set list of IOCs (Indicators of Compromise) because of the varying styles of attack. They organize on Darkweb Chinese language forums, which lack the law enforcement penetration that Western forums have.
 The lack of IOC’s, government penetration in online forums, and overall knowledge of the Honker operating procedures means they could be a legitimate threat in the future, despite their general lack of technical ability. They can be unpredictable, and because they’re a foreign actor and political tensions between the nations are so high, prosecuting any individual in the group can be extremely difficult.  This can lead the actors to be even more brazen, knowing at the very most that the government is throwing a blind eye their way.
+Now, certain members of various Chinese patriotic and otherwise affiliated hacker groups are being all but directly employed by the CPC. Topsec, a cyber security company in Beijing, at one point employed Lion, the founder of HUC, and employs several other members and former members of other Chinese threat groups. The chairman at the head of Topsec stated in an interview that the CPC contributed half of the 440M USD company’s startup funding, and they do receive and act on directives from the PLA. This means that, at one point, the head of the HUC was essentially a government contracted network operator.
+Lion is also known for developing the Lion worm, a worm that automatically propagated to Redhat Linux machines using a BIND 0-day, and for writing HTran, a proxy software used in a lot of the APT1 attacks. Though this was before he was employed by Topsec, this means the Chinese government is indirectly employing the author of a widespread worm, and uses the tools developed by this author.
+
 
 
 Targets:
 US Government Networks
 US Media Corporations
 US Military Networks
-Japanese, Vietnamese, Iran, Filipino, and Tibetan sites and networks 
+Japanese, Vietnamese, Iran, Filipino, and Tibetan sites and networks
 
 Connections:
-Chinese Government
+CPC / PLA
+Chinese Red Hacker Alliance 
+SQLSlammer
+Lion (site administrator)
+HTran
+APT1
+Topsec
 
