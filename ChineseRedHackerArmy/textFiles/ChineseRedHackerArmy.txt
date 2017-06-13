@@ -1,1 +1,22 @@
+Chinese Red Hacker Army
+Chinese Red Hacker Army // Honkers // Honker’s Union // ????? // ??
+
+Criminal History: 
+- Hacking and DDoS’ing US government and military networks
+- Organizing to distribute and dump US data, or pass it on to Chinese government agencies
+- Protesting in the streets, resulting in minor damages to the US embassy in China
+
+The Chinese Honker’s, a play on words with the Chinese word for hacker (hei ke – ??), is a particularly patriotic group of hackers that rose after particularly tumultuous times between the US and the People’s Republic. Incidents such as the Belgrade Bombing and the Hainan Island Incident, as well the disputes over the South China Sea. The best way to think about the Honkers, known as the Red Hacker Army or the Honker’s Union, is a patriotic Anonymous: there is no formal membership, nor are they a standing group. They appear and reappear at will, launch disjointed, only vaguely organized attacks, and organize over Darkweb forums.
+The Honkers attract controversy based upon whether or not they are supported or sponsored by the PRC’s government. As a patriotic, often anti-Western group that derives their name from the color of the Communist Party, it wouldn’t be a huge surprise. The government didn’t exactly condemn the attacks after the Hainan Island incident, slapping them on the wrist before condemning, in much stronger terms, the Americans who they viewed as the real cause of the attacks.
+The risk now is in ad-hoc attacks. There is a risk that many of the old Honker actors who received more acclaim for their technical skills were picked up by formal government agencies. The Honkers themselves are a risk any time the political tensions between the two superstars rise. As the dispute in the South China Sea rises, the US should expect patriotic hacking attacks to become increasingly common. The Honkers are a very disjointed, disorganized group. What they lack in technical expertise, they gain in numbers. They’re difficult to trace because and their lack of central control, and don’t have a set list of IOCs (Indicators of Compromise) because of the varying styles of attack. They organize on Darkweb Chinese language forums, which lack the law enforcement penetration that Western forums have.
+The lack of IOC’s, government penetration in online forums, and overall knowledge of the Honker operating procedures means they could be a legitimate threat in the future, despite their general lack of technical ability. They can be unpredictable, and because they’re a foreign actor and political tensions between the nations are so high, prosecuting any individual in the group can be extremely difficult.  This can lead the actors to be even more brazen, knowing at the very most that the government is throwing a blind eye their way.
+
+
+Targets:
+US Government Networks
+US Media Corporations
+US Military Networks
+
+Connections:
+Chinese Government
 
