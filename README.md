@@ -24,5 +24,7 @@ I plan to open up a file on the following threat actors:
 1. Blackshades RAT group
 2. Zeus Malware group
 3. Dancing Bear 
+4. Sabu
+5. WauchulaGhost
 
 Contact me at the.old.odin.crow@gmail.com .
