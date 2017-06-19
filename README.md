@@ -26,5 +26,7 @@ I plan to open up a file on the following threat actors:
 3. Dancing Bear 
 4. Sabu
 5. WauchulaGhost
+6. th3je5t3r
+
 
 Contact me at the.old.odin.crow@gmail.com .
