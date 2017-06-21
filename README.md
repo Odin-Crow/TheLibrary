@@ -19,6 +19,8 @@ Right now, there is an open file on the following threat actors:
 6. HackForums Hacking Forum / Market
 7. Red Hacker Army // Hacker's Union of China // Red Hacker Alliance
 8. Th3j35t3r // The Jester
+9. Lizard Squad
+10. Sp3cial1st
 
 I plan to open up a file on the following threat actors:
 
