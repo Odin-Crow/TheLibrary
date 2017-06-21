@@ -1,1 +1,36 @@
+Darkode (Hacking Forum / Marketplace)
+Dark0de // Darkode
+Criminal History:
 
+Darkode, formerly darkode.com or darkode.me, was a Clearnet hacker forum/black marketplace where hackers gathered to discuss hacks, sell malware, and trade thousands of owned zombie botnets. The forum is best known for an FBI takedown named Operation Shrouded Horizon, where several high profile hackers were caught up in the subsequent raids.
+Brian Krebs in an article about the Darkode forum made the connection between the forum and the Lizard Squad hacking group. Sp3cial1st aka Sp3c was a well-known Lizard Squad hacker known for taking over large botnets and Social Engineering the owners to convince them to hand control over to Lizard Squad.
+Darkode began in 2007, founded by Mariposa (Butterfly) botnet owner Iserdo (Matjaž Škorjanc). Iserdo was arrested in Slovenia in 2010 and indicted for running the Mariposa botnet. The site was then handed to his co-conspirator, an as-of-yet uncaught hacker going by the handle nocen / Loki. Allegedly, Darkode’s first purpose was to market the Mariposa botnet. The site expanded and the Darkode customer / seller list exploded to become one of the most active English language hacker forums on the Clearnet.
+The quality of darkode dropped when, instead of the usual cybercriminals, the forum was flooded with low-skill “script kiddies”, white hat researchers, and federal investigators.  
+Once the original Darkode was taken down in Operation Shrouded Horizon, a new copy popped up on the Clearnet. This version was significantly less secure, allowing for unregistered users to access the search functionality, members list, and more. This was when Sven took over, allegedly a former member of the original Darkode. This is when the quality of the forum really dive-bombed. It was almost guaranteed that a given user was a HF user, a Fed, or a different kind of script kiddie. 
+There is a rumor that there might be an onion version of Darkode out there, one with enhanced security that makes it more difficult for white hat researchers and federal agents to infiltrate the site. Sp3cial1st, a known member of Lizard Squad, is noticeably missing from FBI documents. This brought up rumors of Sp3c working with Law Enforcement, an allegation that would make a lot of sense, considering the young age and immaturity of many of the LS members.
+
+
+Darkode is rumored to now be at this onion link:
+http://darkode5vqwi4koz.onion.link/ ? D A R K O D E - Index page
+
+
+Targets:
+
+Connections:
+Lizard Squad
+FBI
+Operation Shrouded Horizon
+Iserdo
+Butterfly Bot
+Mafi
+Crim
+Synthet!c // Synthetic
+Crimepack
+J.P. Morgan (hacker, not the bank)
+Sp3ciaL1st // Sp3c
+Fubar
+KMS
+Starfall
+Nocen // Loki
+Android
+Sven
