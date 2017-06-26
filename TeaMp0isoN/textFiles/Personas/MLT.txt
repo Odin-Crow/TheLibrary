@@ -1,0 +1,22 @@
+MLT
+Criminal Activity:
+- Targeting US and UK government agencies
+- Targeting anti-Terrorism hotlines
+- Targeting Israeli banking institutions
+- Doxing Tony Blair
+
+MLT is a primary member of Team Poison, a gray hat hacktivist group based in the UK. MLT was behind several high profile hacks, on both ends of the criminal spectrum. He was a member of Team Poison along the same period that Team Poison partnered with the Muj Hacker group and ZHC, which means he was behind the vulnerability found in Facebook used to wipe personal timelines. He was close to Junaid Hussain, aka Abu Hussain Britani, formerly Team Poison’s TriCk, who fled the country while on bail to join ISIS and is rumored to have been killed in an air strike in Syria.
+Since his arrest in 2012, which was because of his involvement with the doxing of Tony Blair, MLT has gone white hat. He makes money from bug bounties and the public disclosure of vulnerabilities in high-profile targets. He has found vulnerabilities in the US army’s websites and databases, other DoD networks, eBay, and others. He appeared on CNN to speak about Junaid Hussain, and appeared on Viceland Cyberwar, where he spoke about the future of network security and the hacking of autonomous cars, before speaking again about his former partner.
+MLT was a part of an anti-Israel anarchist group. He has a high level of expertise and is part of a group that still takes part in black hat activities. He should be viewed as a potential threat, especially in this extremely volatile political landscape. He is a valuable white hat security researcher, and has found several critical vulnerabilities in high-profile targets. He should be viewed as a valuable asset and a dangerous enemy, as should the rest of TeaMp0isoN. 
+
+Connections:
+- TeaMp0isoN
+- TriCk // Junaid Hussain // Abu Hussain Britani
+- ZHC
+- Mujihadeen Hacker Group
+
+Targets: 
+- US and UK government agencies
+- Zionist groups
+- US and UK military and intelligence organizations
+- Occupy movement
