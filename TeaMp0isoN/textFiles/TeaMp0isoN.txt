@@ -1,0 +1,39 @@
+TeaMp0isoN
+
+Criminal Activity:
+- Hacking UK government targets
+- Hacking targets in academia
+- Hacking US government targets
+- DDoS attacks against government targets
+- Evading bail (TriCk)
+- Joining ISIS as a prominent propagandist (TriCk)
+
+Team Poison is a prominent gray hat hacktivist group known for hacking government targets, usually for a political cause. Targets have included anti-terrorism hotlines, former Prime Minister Tony Blair, US-based rapper P-Diddy, MI6, and many others. Their top 3 members, MLT, TriCk, and 0xOmar were arrested in 2012. After this, TriCk, being held on comparably minor chargers, escaped the country while out of jail on bail. 
+TriCk, aka Abu Hussain Al Britani, believed to be Junaid Hussain, left the country while out of jail on bail. He was the hacker arrested for doxing Tony Blair. He was facing 6 months of jail time, compared to fellow hacker MLT’s possibility of 10, but left the country to join ISIS instead of facing his sentence. It is believed that Hussain went on to be a prevalent propagandist, using social media to recruit soldiers, and continued hacking under the group name CyberCaliphate. He also potentially has links to Jihadi John. He is believed to be behind the doxing of US soldiers and their families. Bringing his reign to an end, it is believed that Hussain was killed in a drone strike in Syria, dated August 26th 2015.
+During the blackhat Team Poison era, the group formally announced ties to Anonymous for Operation Robin Hood, the hacktivist operation inspired by the Occupy movement. This is their most prominent operation in conjunction with Anonymous, and their second formal announcement of cooperation with their group after Operation Censor This. Operation Robin Hood’s goal was to steal credit card information and use it to “donate money back to the 99%”. After the donations, the secondary goal was to use the bank’s reimbursement of stolen funds to drain the pockets of the banks, and, tertiarily, convince the banking customers to move their funds out of their accounts.
+Team Poison particularly targeted Israeli credit cards, furthering the idea that they are largely anti-Israel and pro-Palestine, a sentiment largely carried by Anonymous. This echoes their 2011 and 2012 activity, which was largely pro-Palestinian and anti-Israel. At this time they teamed up with ZCompany Hacking Crew (ZHC) and the Mujihadeen Hacker Group to take down Zionist groups on Facebook and deface Zionist websites with the words “Allah U Akbar”. Even celebrities with Zionist ties were targeted in the Facebook wiping campaign. This, coupled with TriCk’s IS ties, paints the group in an Islamist light.
+MLT and the rest of TeaMp0isoN came back in 2015, appearing to be a white hat group. They publicized several vulnerabilities in high-profile targets, including Google, Amazon, eBay, Harvard, NOAA, Comcast, Time Warner, and others. They also released several 0-day exploits, bringing them to light before they were used by bad actors. They released a series of vulnerabilities in large universities, most of which were SQLi attacks. 
+More recently, TeaMp0isoN should be viewed as a gray hat group. They disclosed vulnerabilities in many institutions, including US government organizations. TeaMp0isoN breached and defaced many UN targets, and dumped data on Time Warner users. The group as of now should be viewed as a dangerous and highly skilled gray hat group, one with ties to politically-motivated hacktivism that targets UK and US based government institutions. 
+
+Targets:
+- US and UK government institutions and individuals
+- US and UK banking institutions
+- United Nations
+- Academic institutions
+- LulzSec
+- Large corporations
+- Zionist Groups
+Connections:
+- Anonymous
+- Anarchism
+- Operation Censor This
+- Operation Robin Hood
+- Operation Retaliation
+- Occupy Movement
+- MLT
+- ISIS (TriCk)
+- ZHC (ZCompany Hacking Crew)
+- Islam
+- Mujahdeen Hacking Unit
+- Pakistan Cyber Army
+
