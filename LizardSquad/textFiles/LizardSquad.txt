@@ -8,7 +8,9 @@ Criminal Activity:
 - Hacking Malaysia Airlines
 
 Lizard Squad is a blackhat group known for their history of DDoS attacks against just about anything with a network connection, from League of Legends servers to Playstation Network and Xbox Live. Their more high profile hacks include the takedown of XBL and PSN around the Christmas holidays, the highest traffic period for these companies. They also claimed to have taken the North Korean internet offline for an entire day. They defaced Machinima and the website for Malaysia airlines as well, showing that their skills did not just include DDoS attacks and failed Tor attacks.
-At one point, LS announced they were retiring. The “retirement” didn’t last long, as they came back to launch more attacks against gaming companies. Upon announcing their Christmas season attacks, another hacker group, “The Finest Squad”, surfaced, vowing to end the LS’s reign of terror. Surprisingly, the group succeeded, doxing most of the high profile membership of LS. The members were arrested, and a site was set up to honor the downfall of the prime membership.
+At one point, LS announced they were retiring. The “retirement” didn’t last long, as they came back to launch more attacks against gaming companies. Upon announcing their Christmas season attacks, another hacker group, “The Finest Squad”, surfaced, vowing to end the LS’s reign of terror. Surprisingly, the group succeeded, doxing most of the high profile membership of LS. The members were arrested, and a site was set up to honor the downfall of the prime membership. 
+According to a cached version of one of the Finest Squad’s leaks, Lizard Squad consisted of 14 members. This makes them a larger group than previous estimates, though the dox does not necessarily say what constitutes being a member. A few of the members have very little attached information. For example, MLT, a hacker known for his activities in Team Poison, is listed as a newly appointed hacker. There is almost no other information about MLT, and his address reads “somewhere in the UK”. 
+Other users in the cached dox have quite a bit more information attached, including names, addresses, IP’s, physical hardware used, Comcast accounts, pictures of relatives, and more. The individual that brought this dump to my attention admitted that the information was not all correct, however. The dump in question will be left in the link dump.
 According to reports by the LS and others, none of Finest Squad’s leaks were correct. LS shut down their Twitter page in the beginning of 2017, but operated long after the actions of Finest Squad. There was a secondary leak by MLT of TeamPoison, a pastebin post containing doxed information on all of the members of Finest Squad, rife with ASCII art and claims of incompetence on the part of Finest Squad. Upon reading the pastebin dump, the dox look real enough, so it should be assumed that the Lizard Squad is still free, to some extent.
 
 
@@ -37,3 +39,5 @@ Connections:
 - Pain
 - Plague
 - Criminal (possibly Mafi?)
+- MLT
+- TeaMp0isoN

@@ -22,6 +22,7 @@ Right now, there is an open file on the following threat actors:
 9. Lizard Squad
 10. Sp3cial1st
 11. MLT
+12. Bureau 121
 
 I plan to open up a file on the following threat actors:
 
@@ -30,7 +31,7 @@ I plan to open up a file on the following threat actors:
 3. Dancing Bear 
 4. Sabu
 5. WauchulaGhost
-6. th3je5t3r
+
 
 
 Contact me at the.old.odin.crow@gmail.com .
