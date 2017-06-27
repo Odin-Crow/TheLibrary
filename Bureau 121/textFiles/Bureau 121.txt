@@ -1,0 +1,29 @@
+Bureau 121
+
+Criminal Activity:
+- Infiltrating and wiping South Korean banking, media, and intelligence systems
+- DDoS attacks against US and other western systems
+
+Bureau 121 is a North Korean threat actor identified by _______. Though the headquarters is likely to be in Pyongyang, it is believed that the most active outpost is located in the Chinese city Shenyang. The outpost in Shenyang is attached to or inside of a hotel, one described as having “tasteful touches of North Korean tapestries and pillows.” 
+Much of the information about Bureau 121 is coming from an intelligence report from HP and from a North Korean defector, formerly a professor of computer science in North Korea. According to the professor, Bureau 121 started with a modest size of 500 people, but have since increased to an estimated 6,000 man strong force.
+Bureau 121 is considered to be an expert team of hackers with nation-state backing. They have been observed operating out of the Chilbosan Hotel in Shenyang, China. Because of the nature of the North Korean intranet/internet system, very little is known about the Bureau 121 group, but they should be regarded as a highly capable nation-state threat actor group with significant capabilities to disrupt and destroy.
+
+Targets:
+- South Korean media, military, banking, and intelligence groups
+- Western, particularly US, media, military, banking, and intelligence groups
+
+Connections:
+- North Korea // DPRK // Democratic People’s Republic of Korea
+- China
+- Korean Computer Center (KCC)
+- Lab 110
+- New Romantic Cyber Army Team // Hastati
+- Kimsuky // Kimsukyang
+- IsOne
+- WhoIs
+- dbM4st3r
+- d3sign3r
+- APTM4st3r
+- S3ll3r
+- Vacc1nm45t3r
+- R3cycl3r
