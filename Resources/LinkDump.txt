@@ -11,8 +11,11 @@ https://krebsonsecurity.com/who-is-anna-senpai-mirai-story-glossary/
 This is the article detailing Kreb's investigation into the identity of Anna-Senpai, and its associated glossary to help explain terms, people, and companies involved 
 in the investigation. 
 
+<<<<<<< HEAD
 Lizard Squad
 
 https://web.archive.org/web/20150610031640/https://skidpaste.org/41mL1aE1
 
 unverified dox dump targeting LS
+=======
+>>>>>>> f80b629... Test
